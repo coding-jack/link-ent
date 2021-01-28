@@ -1,0 +1,21 @@
+{
+  "featuredLink": {
+    "link": "My Website I Made",
+    "url": "https://youtu.be/Ajtn2VI3Fug?t=106",
+    "emoji": "💻"
+  },
+  "socialLinks": [
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/shwarmaband/"
+    },
+    {
+      "icon": "facebook",
+      "url": "https://www.facebook.com/shwarmaband"
+    },
+    {
+      "icon": "twitter",
+      "url": "https://twitter.com/shwarmadelica"
+    }
+  ]
+}

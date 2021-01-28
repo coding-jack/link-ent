@@ -1,0 +1,43 @@
+{
+  "featuredLink": {
+    "link": "Bandcamp",
+    "url": "https://youtu.be/Ajtn2VI3Fug?t=106",
+    "emoji": "🎹"
+  },
+  "musicLinks": [
+    {
+      "icon": "spotify",
+      "url": "https://open.spotify.com/artist/5WHhSHtZd60meLMNDxRbYV?si=C22IAgQiR2aOiNU99AB_sQ"
+    },
+    {
+      "icon": "apple",
+      "url": "https://music.apple.com/us/artist/shwarma/1390163595"
+    },
+    {
+      "icon": "youtube",
+      "url": "https://music.youtube.com/channel/UCHl6N7GvVTmwZZw2gOa3yEg"
+    },
+    {
+      "icon": "amazon",
+      "url": "https://music.amazon.com/artists/B07DB43C7C/shwarma"
+    },
+    {
+      "icon": "bandcamp",
+      "url": "https://music.shwarma.band/"
+    }
+  ],
+  "socialLinks": [
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/shwarmaband/"
+    },
+    {
+      "icon": "facebook",
+      "url": "https://www.facebook.com/shwarmaband"
+    },
+    {
+      "icon": "twitter",
+      "url": "https://twitter.com/shwarmadelica"
+    }
+  ]
+}
