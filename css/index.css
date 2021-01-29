@@ -6,20 +6,9 @@
 
 body {
   font-family: 'Karla';
-  /* background: url('../public/tippy-bg.jpg') top center no-repeat; */
-  /* background-attachment: fixed; */
+  background: url('../public/tippy-bg.jpg') top right no-repeat;
+  background-attachment: fixed;
+  box-shadow: inset 0px 0px 0 2000px rgba(0,0,0,0.3);
   @apply bg-gray-800 text-white
 }
 
-#background_wrap {
-  box-shadow: inset 0px 0px 0 2000px rgba(0,0,0,0.3);
-  z-index: -1;
-  position: fixed;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  background-size: 100%;
-  background: url('../public/tippy-bg.jpg') top center no-repeat;
-  background-attachment: fixed;
-}
