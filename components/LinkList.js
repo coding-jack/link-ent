@@ -5,7 +5,7 @@ function LinkList(props) {
       <ul className="w-full md:w-4/5 lg:w-3/6 mx-auto">
         <li className="mb-4">
           <a
-            className="relative transition duration-200 font-bold bg-green-500 border-green-500 border-2 hover:bg-transparent py-4 w-100 block text-center text-gray-800 hover:text-green-400 rounded-lg md:px-12"
+            className="relative transition duration-200 font-bold bg-green-400 border-green-400 border-2 hover:bg-transparent py-4 w-100 block text-center text-gray-800 hover:text-green-400 rounded-lg md:px-12"
             href={props.featuredUrl}
             alt={props.featuredLink}
             target="_blank"
