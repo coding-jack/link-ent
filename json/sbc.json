@@ -1,43 +1,35 @@
 {
   "featuredLink": {
     "link": "Bandcamp",
-    "url": "https://youtu.be/Ajtn2VI3Fug?t=106",
+    "url": "https://superbootycomputer.bandcamp.com/",
     "emoji": "🎹"
   },
   "musicLinks": [
     {
       "icon": "spotify",
-      "url": "https://open.spotify.com/artist/5WHhSHtZd60meLMNDxRbYV?si=C22IAgQiR2aOiNU99AB_sQ"
+      "url": "https://open.spotify.com/artist/3UgdoEE8ER4PdUM0a7OJL7?si=KkBXE6AVQh6LOZZLz6wulA"
     },
     {
       "icon": "apple",
-      "url": "https://music.apple.com/us/artist/shwarma/1390163595"
+      "url": "https://music.apple.com/us/artist/super-booty-computer/1530138196"
     },
     {
       "icon": "youtube",
-      "url": "https://music.youtube.com/channel/UCHl6N7GvVTmwZZw2gOa3yEg"
+      "url": "https://www.youtube.com/channel/UCjq3uMOaSSihZ56Zrd2pN-Q"
     },
     {
       "icon": "amazon",
-      "url": "https://music.amazon.com/artists/B07DB43C7C/shwarma"
+      "url": "https://music.amazon.com/artists/B08H7ZCV6L/super-booty-computer"
     },
     {
       "icon": "bandcamp",
-      "url": "https://music.shwarma.band/"
+      "url": "https://superbootycomputer.bandcamp.com/"
     }
   ],
   "socialLinks": [
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/shwarmaband/"
-    },
-    {
-      "icon": "facebook",
-      "url": "https://www.facebook.com/shwarmaband"
-    },
-    {
-      "icon": "twitter",
-      "url": "https://twitter.com/shwarmadelica"
+      "url": "https://www.instagram.com/superbootycomputer/"
     }
   ]
 }

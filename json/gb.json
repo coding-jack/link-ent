@@ -7,33 +7,33 @@
   "musicLinks": [
     {
       "icon": "spotify",
-      "url": "https://open.spotify.com/artist/5WHhSHtZd60meLMNDxRbYV?si=C22IAgQiR2aOiNU99AB_sQ"
+      "url": "https://open.spotify.com/artist/52AB3dcVboSzPFCERW19PI?si=7SovxcCdQve0Wx9CuSq5tw"
     },
     {
       "icon": "apple",
-      "url": "https://music.apple.com/us/artist/shwarma/1390163595"
+      "url": "https://music.apple.com/us/artist/goofball-bucket/1543205594"
     },
     {
       "icon": "youtube",
-      "url": "https://music.youtube.com/channel/UCHl6N7GvVTmwZZw2gOa3yEg"
+      "url": "https://www.youtube.com/channel/UCp_v7CmKt4Qa8-n-TVhhyiA"
     },
     {
       "icon": "amazon",
-      "url": "https://music.amazon.com/artists/B07DB43C7C/shwarma"
+      "url": "https://music.amazon.com/artists/B08PL4D91D/goofball-bucket"
     },
     {
       "icon": "bandcamp",
-      "url": "https://music.shwarma.band/"
+      "url": "https://goofballbucket.bandcamp.com/"
     }
   ],
   "socialLinks": [
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/shwarmaband/"
+      "url": "https://www.instagram.com/goofballbucket/"
     },
     {
       "icon": "facebook",
-      "url": "https://www.facebook.com/shwarmaband"
+      "url": "https://www.facebook.com/goofballbucket"
     }
   ]
 }

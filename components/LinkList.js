@@ -18,7 +18,7 @@ function LinkList(props) {
       </ul>
       <ul className="pb-3 text-center">
         {props.musicLinks.map(link => (
-          <li className="mr-3 inline" key={link.icon}>
+          <li className="mr-3 px-2 md:px-3 inline" key={link.icon}>
             <a
               className="text-green-400  hover:text-green-600"
               href={link.url}
@@ -33,7 +33,7 @@ function LinkList(props) {
       </ul>
       <ul className="pb-6 text-center">
         {props.socialLinks.map(link => (
-          <li className="mr-3 inline" key={link.icon}>
+          <li className="mr-3 px-2 md:px-3 inline" key={link.icon}>
             <a
               className="text-green-400  hover:text-green-600"
               href={link.url}
