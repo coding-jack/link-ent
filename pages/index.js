@@ -7,6 +7,7 @@ import { useEffect } from 'react';
 import shwarma from '../json/shwarma.json'
 import gb from '../json/gb.json'
 import sbc from '../json/sbc.json'
+import dz from '../json/dz.json'
 import jackson from '../json/jackson.json'
 
 function IndexPage() {
@@ -61,6 +62,16 @@ function IndexPage() {
         emoji={sbc.featuredLink.emoji}
         musicLinks={sbc.musicLinks}
         socialLinks={sbc.socialLinks}
+      />
+
+      {/* Links for Dr. Zilog */}
+      <LinkList
+        header="Dr. Zilog"
+        featuredLink={dz.featuredLink.link}
+        featuredUrl={dz.featuredLink.url}
+        emoji={dz.featuredLink.emoji}
+        musicLinks={dz.musicLinks}
+        socialLinks={dz.socialLinks}
       />
 
       {/* Links for Web Development */}

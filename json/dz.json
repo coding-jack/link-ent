@@ -1,0 +1,39 @@
+{
+  "featuredLink": {
+    "link": "Obstreperous Music Video",
+    "url": "https://youtu.be/cP0UvuX7nbg",
+    "emoji": "👹"
+  },
+  "musicLinks": [
+    {
+      "icon": "spotify",
+      "url": "https://open.spotify.com/artist/2ERCoVeHQmP8bPG35mV0ml?si=V5camDYoTJq-NAmUeiolEg"
+    },
+    {
+      "icon": "apple",
+      "url": "https://music.apple.com/us/artist/dr-zilog/587443266"
+    },
+    {
+      "icon": "youtube",
+      "url": "https://www.youtube.com/channel/UC9GGfDGMwC1cEdpQG3Iv9Lw"
+    },
+    {
+      "icon": "amazon",
+      "url": "https://music.amazon.com/artists/B00AO1F0JQ/dr-zilog"
+    },
+    {
+      "icon": "bandcamp",
+      "url": "https://music.drzilog.com/"
+    }
+  ],
+  "socialLinks": [
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/dr.zilog/"
+    },
+    {
+      "icon": "facebook",
+      "url": "https://www.facebook.com/drzilog"
+    }
+  ]
+}
