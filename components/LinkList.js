@@ -20,7 +20,7 @@ function LinkList(props) {
         {props.musicLinks.map(link => (
           <li className="px-3 md:px-3 inline" key={link.icon}>
             <a
-              className="text-green-400  hover:text-green-600"
+              className="text-green-400  hover:text-green-600 duration-200"
               href={link.url}
               target="_blank"
               rel="noopener"
