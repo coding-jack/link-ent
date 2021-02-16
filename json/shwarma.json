@@ -1,9 +1,16 @@
 {
-  "featuredLink": {
-    "link": "NEW SINGLE from Loveworthy Live EP",
-    "url": "https://music.shwarma.band/album/loveworthy-live-ep",
-    "emoji": ""
-  },
+  "featuredLinks": [
+    {
+      "link": "New Release: Loveworthy Live EP",
+      "url": "https://music.shwarma.band/album/loveworthy-live-ep",
+      "emoji": ""
+    },
+    {
+      "link": "Loveworthy Live EP Video Premiere",
+      "url": "https://youtu.be/qxzOTcbdgy8?t=704",
+      "emoji": ""
+    }
+  ],
   "musicLinks": [
     {
       "icon": "spotify",

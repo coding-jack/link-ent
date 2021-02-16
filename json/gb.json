@@ -1,9 +1,11 @@
 {
-  "featuredLink": {
-    "link": "Downbeat Denver Park Day",
-    "url": "https://youtu.be/s-4K3vtGLVI",
-    "emoji": "🎸"
-  },
+  "featuredLinks": [
+    {
+      "link": "Downbeat Denver Park Day",
+      "url": "https://youtu.be/s-4K3vtGLVI",
+      "emoji": "🎸"
+    }
+  ],
   "musicLinks": [
     {
       "icon": "spotify",

@@ -37,9 +37,7 @@ function IndexPage() {
       {/* Links for Shwarma */}
       <LinkList
         header="shwarma"
-        featuredLink={shwarma.featuredLink.link}
-        featuredUrl={shwarma.featuredLink.url}
-        emoji={shwarma.featuredLink.emoji}
+        featuredLinks={shwarma.featuredLinks}
         musicLinks={shwarma.musicLinks}
         socialLinks={shwarma.socialLinks}
       />
@@ -47,9 +45,7 @@ function IndexPage() {
       {/* Links for gb */}
       <LinkList
         header="Goofball Bucket"
-        featuredLink={gb.featuredLink.link}
-        featuredUrl={gb.featuredLink.url}
-        emoji={gb.featuredLink.emoji}
+        featuredLinks={gb.featuredLinks}
         musicLinks={gb.musicLinks}
         socialLinks={gb.socialLinks}
       />
@@ -57,9 +53,7 @@ function IndexPage() {
       {/* Links for Super Booty Computer */}
       <LinkList
         header="Super Booty Computer"
-        featuredLink={sbc.featuredLink.link}
-        featuredUrl={sbc.featuredLink.url}
-        emoji={sbc.featuredLink.emoji}
+        featuredLinks={sbc.featuredLinks}
         musicLinks={sbc.musicLinks}
         socialLinks={sbc.socialLinks}
       />
@@ -67,9 +61,7 @@ function IndexPage() {
       {/* Links for Dr. Zilog */}
       <LinkList
         header="Dr. Zilog"
-        featuredLink={dz.featuredLink.link}
-        featuredUrl={dz.featuredLink.url}
-        emoji={dz.featuredLink.emoji}
+        featuredLinks={dz.featuredLinks}
         musicLinks={dz.musicLinks}
         socialLinks={dz.socialLinks}
       />
@@ -77,10 +69,7 @@ function IndexPage() {
       {/* Links for Web Development */}
       {/* <LinkList
         header="Web Development"
-        featuredLink={jackson.featuredLink.link}
-        featuredUrl={jackson.featuredLink.url}
-        emoji={jackson.featuredLink.emoji}
-        musicLinks={jackson.musicLinks}
+        featuredLinks={jackson.featuredLinks}
         socialLinks={jackson.socialLinks}
       /> */}
 

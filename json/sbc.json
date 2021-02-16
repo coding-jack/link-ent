@@ -1,9 +1,11 @@
 {
-  "featuredLink": {
-    "link": "Bandcamp",
-    "url": "https://superbootycomputer.bandcamp.com/",
-    "emoji": "🎹"
-  },
+  "featuredLinks": [
+    {
+      "link": "Bandcamp with Three Singles",
+      "url": "https://superbootycomputer.bandcamp.com/",
+      "emoji": "🎹"
+    }
+  ],
   "musicLinks": [
     {
       "icon": "spotify",

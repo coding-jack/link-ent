@@ -1,9 +1,11 @@
 {
-  "featuredLink": {
-    "link": "Obstreperous Music Video",
-    "url": "https://youtu.be/D3ccQTyp4rE",
-    "emoji": "👹"
-  },
+  "featuredLinks": [
+    {
+      "link": "Obstreperous Music Video",
+      "url": "https://youtu.be/D3ccQTyp4rE",
+      "emoji": "👹"
+    }
+  ],
   "musicLinks": [
     {
       "icon": "spotify",

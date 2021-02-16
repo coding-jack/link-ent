@@ -1,9 +1,11 @@
 {
-  "featuredLink": {
-    "link": "My Website I Made",
-    "url": "https://youtu.be/Ajtn2VI3Fug?t=106",
-    "emoji": "💻"
-  },
+  "featuredLinks": [
+    {
+      "link": "My Headless CMS I Made with Next.js, Redux and Tailwind",
+      "url": "https://jacksonkaufman.com/",
+      "emoji": "💻"
+    }
+  ],
   "socialLinks": [
     {
       "icon": "instagram",
