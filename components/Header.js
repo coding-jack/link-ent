@@ -6,7 +6,7 @@ function Header() {
         <h1 className="font-bold text-2xl text-green-300">Jackson Kaufman</h1>
         <p>Check out my music work</p>
         <p>at any one of the links below 🤘🏼</p>
-        <p className="pt-3">Or take a look at my <a className="text-green-300 hover:text-green-600 duration-200" href="https://jacksonkaufman.com/">web dev site</a> I made 💻</p>
+        {/* <p className="pt-3">Or take a look at my <a className="text-green-300 hover:text-green-600 duration-200" href="https://jacksonkaufman.com/">web dev site</a> I made 💻</p> */}
       </div>
     </header>
   );
