@@ -1,19 +1,19 @@
 {
   "featuredLinks": [
     {
-      "link": "YouTube Channel",
-      "url": "https://www.youtube.com/channel/UC69vsi_MuqB8VCka-wj8Mcg",
-      "emoji": "📺"
-    },
-    {
       "link": "Bandwagon Mag Album Review",
       "url": "https://bandwagmag.com/2021/03/album-review-shwarma-loveworthy-live/",
       "emoji": "❤️"
     },
     {
-      "link": "New Release: Loveworthy Live EP",
+      "link": "Latest Release: Loveworthy Live EP",
       "url": "https://music.shwarma.band/album/loveworthy-live-ep",
       "emoji": "🎙"
+    },
+    {
+      "link": "Website",
+      "url": "https://www.shwarma.band/",
+      "emoji": "📺"
     }
   ],
   "musicLinks": [
