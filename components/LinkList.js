@@ -1,7 +1,7 @@
 function LinkList(props) {
   return (
     <main className="px-3 pb-6 sm:px-0">
-      <h1 className="font-bold text-center pb-3 italic text-3xl">{props.header}</h1>
+      <h1 className="font-bold text-center pb-3 italic text-4xl">{props.header}</h1>
       <ul className="w-full md:w-4/5 lg:w-3/6 mx-auto">
         {props.featuredLinks.map(link => (
           <li className="mb-4" key={link.icon}>
@@ -18,6 +18,7 @@ function LinkList(props) {
           </li>
         ))}
       </ul>
+      <p className="text-center pb-3">Music/Social Links:</p>
       <ul className="pb-3 text-center">
         {props.musicLinks.map(link => (
           <li className="px-3 md:px-3 inline" key={link.icon}>
