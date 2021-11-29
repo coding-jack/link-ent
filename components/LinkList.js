@@ -29,7 +29,7 @@ function LinkList(props) {
               rel="noopener"
               alt={link.icon}
             >
-              <i className={`fa fa-2x fa-${link.icon}`}></i>
+              <i className={`fa fa-3x fa-${link.icon}`}></i>
             </a>
           </li>
         ))}
@@ -44,7 +44,7 @@ function LinkList(props) {
               rel="noopener"
               alt={link.icon}
             >
-              <i className={`fa fa-2x fa-${link.icon}`}></i>
+              <i className={`fa fa-3x fa-${link.icon}`}></i>
             </a>
           </li>
         ))}

@@ -34,20 +34,20 @@ function IndexPage() {
       {/* Profile Pic and Title Header*/}
       <Header />
 
-      {/* Links for Shwarma */}
-      <LinkList
-        header="shwarma"
-        featuredLinks={shwarma.featuredLinks}
-        musicLinks={shwarma.musicLinks}
-        socialLinks={shwarma.socialLinks}
-      />
-
       {/* Links for gb */}
       <LinkList
         header="Goofball Bucket"
         featuredLinks={gb.featuredLinks}
         musicLinks={gb.musicLinks}
         socialLinks={gb.socialLinks}
+      />
+
+      {/* Links for Shwarma */}
+      <LinkList
+        header="shwarma"
+        featuredLinks={shwarma.featuredLinks}
+        musicLinks={shwarma.musicLinks}
+        socialLinks={shwarma.socialLinks}
       />
 
       {/* Links for Super Booty Computer */}
