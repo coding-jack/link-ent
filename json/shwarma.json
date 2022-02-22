@@ -1,14 +1,14 @@
 {
   "featuredLinks": [
     {
+      "link": "Stream Kebab Now",
+      "url": "https://music.shwarma.band/album/kebab",
+      "emoji": "💿"
+    },
+    {
       "link": "Bandwagon Mag Album Review",
       "url": "https://bandwagmag.com/2021/03/album-review-shwarma-loveworthy-live/",
       "emoji": "❤️"
-    },
-    {
-      "link": "Website",
-      "url": "https://www.shwarma.band/",
-      "emoji": "📺"
     }
   ],
   "musicLinks": [
