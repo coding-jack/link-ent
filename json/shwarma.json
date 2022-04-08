@@ -1,12 +1,17 @@
 {
   "featuredLinks": [
     {
+      "link": "Tickets - Yak Attack w/ shwarma @ The Coast in FOCO",
+      "url": "https://bandwag.co/4-16-22-YakAttack",
+      "emoji": "🎟"
+    },
+    {
       "link": "Norwegian Album Review - Kebab",
       "url": "https://underdusken.no/albumanmeldelse-musikkanmeldelse/shwarma-kebab/300512",
       "emoji": "💿"
     },
     {
-      "link": "Bandwagon Mag Album Review",
+      "link": "Bandwagon Mag Loveworthy Review",
       "url": "https://bandwagmag.com/2021/03/album-review-shwarma-loveworthy-live/",
       "emoji": "❤️"
     }
