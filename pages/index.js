@@ -8,6 +8,7 @@ import shwarma from '../json/shwarma.json'
 import gb from '../json/gb.json'
 import sbc from '../json/sbc.json'
 import dz from '../json/dz.json'
+import campGoofball from '../json/campGoofball.json'
 import jackson from '../json/jackson.json'
 
 function IndexPage() {
@@ -33,6 +34,14 @@ function IndexPage() {
 
       {/* Profile Pic and Title Header*/}
       <Header />
+
+      {/* Links for Camp Goofball */}
+      <LinkList
+        header="Camp Goofball"
+        featuredLinks={campGoofball.featuredLinks}
+        musicLinks={campGoofball.musicLinks}
+        socialLinks={campGoofball.socialLinks}
+      />
 
       {/* Links for Shwarma */}
       <LinkList
