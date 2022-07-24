@@ -37,7 +37,7 @@ function IndexPage() {
 
       {/* Links for Camp Goofball */}
       <LinkList
-        header="Camp Goofball"
+        header="Camp Goofball: 9/9 - 9/10"
         featuredLinks={campGoofball.featuredLinks}
         musicLinks={campGoofball.musicLinks}
         socialLinks={campGoofball.socialLinks}

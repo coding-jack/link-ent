@@ -9,7 +9,7 @@ body {
   background: url('../public/tippy-bg.jpg') top center no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  box-shadow: inset 0px 0px 0 2000px rgba(0,0,0,0.3);
+  box-shadow: inset 0px 0px 0 2000px rgba(0,0,0,0.7);
   @apply bg-gray-800 text-white
 }
 

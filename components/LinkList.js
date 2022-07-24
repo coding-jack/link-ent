@@ -1,7 +1,7 @@
 function LinkList(props) {
   return (
     <main className="px-3 pb-6 sm:px-0">
-      <h1 className="font-bold text-center pb-3 italic text-4xl">{props.header}</h1>
+      <h1 className="font-bold text-center pb-3 italic text-3xl drop-shadow-2xl">{props.header}</h1>
       <ul className="w-full md:w-4/5 lg:w-3/6 mx-auto">
         {props.featuredLinks.map(link => (
           <li className="mb-4" key={link.icon}>
@@ -19,21 +19,23 @@ function LinkList(props) {
         ))}
       </ul>
       <p className="text-center pb-3">Music/Social Links:</p>
-      <ul className="pb-3 text-center">
-        {props.musicLinks.map(link => (
-          <li className="px-3 md:px-3 inline" key={link.icon}>
-            <a
-              className="text-green-400  hover:text-green-600 duration-200"
-              href={link.url}
-              target="_blank"
-              rel="noopener"
-              alt={link.icon}
-            >
-              <i className={`fa fa-3x fa-${link.icon}`}></i>
-            </a>
-          </li>
-        ))}
-      </ul>
+      {props.musicLinks.length != null &&
+        <ul className="pb-3 text-center">
+          {props.musicLinks.map(link => (
+            <li className="px-3 md:px-3 inline" key={link.icon}>
+              <a
+                className="text-green-400  hover:text-green-600 duration-200"
+                href={link.url}
+                target="_blank"
+                rel="noopener"
+                alt={link.icon}
+              >
+                <i className={`fa fa-3x fa-${link.icon}`}></i>
+              </a>
+            </li>
+          ))}
+        </ul>
+      }
       <ul className="pb-6 text-center">
         {props.socialLinks.map(link => (
           <li className="mr-3 px-2 md:px-3 inline" key={link.icon}>

@@ -2,7 +2,7 @@ function Header() {
   return (
     <header className="container flex text-center mx-auto py-10">
       <div className="md:w-4/6 mx-auto">
-        <img src="/JacksonProfile.png" className="h-32 rounded-full mx-auto mb-5" />
+        <img src="/JacksonProfile.png" className="h-32 rounded-full mx-auto mb-5 border border-gray-600" />
         <h1 className="font-bold text-3xl text-green-300">Jackson Kaufman</h1>
         <p className="text-xs">Check out my music work</p>
         <p className="text-xs">at any one of the links below 🤘🏼</p>

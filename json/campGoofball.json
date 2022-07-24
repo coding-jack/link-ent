@@ -4,14 +4,14 @@
         "link": "Camp Goofball 2022 Tickets!",
         "url": "https://www.eventbrite.com/e/camp-goofball-tickets-320413233607",
         "emoji": "🎟"
-      }
-    ],
-    "musicLinks": [
+      },
       {
-        "icon": "spotify",
-        "url": "https://open.spotify.com/artist/52AB3dcVboSzPFCERW19PI?si=vOw01bYAQFyFqW5dxxLyhA"
+        "link": "Performer Playlist",
+        "url": "https://open.spotify.com/playlist/6Y3kJ2EmMzhIfVX5EuB3Np?si=-XiwpTOnRJeTkCUlGdcpVA&pt=5173cdf2b688872102a2288e58538f6f",
+        "emoji": "🎧"
       }
     ],
+    "musicLinks": [],
     "socialLinks": [
       {
         "icon": "instagram",
