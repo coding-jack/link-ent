@@ -52,20 +52,20 @@ function IndexPage() {
       />
 
       {/* Links for gb */}
-      <LinkList
+      {/* <LinkList
         header="Goofball Bucket"
         featuredLinks={gb.featuredLinks}
         musicLinks={gb.musicLinks}
         socialLinks={gb.socialLinks}
-      />
+      /> */}
 
       {/* Links for Super Booty Computer */}
-      <LinkList
+      {/* <LinkList
         header="Super Booty Computer"
         featuredLinks={sbc.featuredLinks}
         musicLinks={sbc.musicLinks}
         socialLinks={sbc.socialLinks}
-      />
+      /> */}
 
       {/* Links for Dr. Zilog */}
       <LinkList
