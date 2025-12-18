@@ -1,55 +1,50 @@
 {
-  "featuredLinks": [
-    {
-      "link": "hi-dive headliner w/ the gray goo and los toms",
-      "url": "https://dice.fm/event/oe5r5m-shwarma-the-gray-goo-los-toms-30th-may-hi-dive-denver-tickets",
-      "emoji": "🎟️"
-    },
-    {
-      "link": "full set @ cervantes 6/3/23",
-      "url": "https://www.youtube.com/watch?v=-7ey4fr07Hs",
-      "emoji": "🎬"
-    },
-    {
-      "link": "Norwegian Album Review - Kebab",
-      "url": "https://underdusken.no/albumanmeldelse-musikkanmeldelse/shwarma-kebab/300512",
-      "emoji": "💿"
-    }
-  ],
-  "musicLinks": [
-    {
-      "icon": "spotify",
-      "url": "https://open.spotify.com/artist/5WHhSHtZd60meLMNDxRbYV?si=C22IAgQiR2aOiNU99AB_sQ"
-    },
-    {
-      "icon": "apple",
-      "url": "https://music.apple.com/us/artist/shwarma/1390163595"
-    },
-    {
-      "icon": "youtube",
-      "url": "https://music.youtube.com/channel/UCHl6N7GvVTmwZZw2gOa3yEg"
-    },
-    {
-      "icon": "amazon",
-      "url": "https://music.amazon.com/artists/B07DB43C7C/shwarma"
-    },
-    {
-      "icon": "bandcamp",
-      "url": "https://music.shwarma.band/"
-    }
-  ],
-  "socialLinks": [
-    {
-      "icon": "instagram",
-      "url": "https://www.instagram.com/shwarmaband/"
-    },
-    {
-      "icon": "facebook",
-      "url": "https://www.facebook.com/shwarmaband"
-    },
-    {
-      "icon": "twitter",
-      "url": "https://twitter.com/shwarmadelica"
-    }
-  ]
+    "featuredLinks": [
+        {
+            "link": "full set @ cervantes 6/3/23",
+            "url": "https://www.youtube.com/watch?v=-7ey4fr07Hs",
+            "emoji": "🎬"
+        },
+        {
+            "link": "Norwegian Album Review - Kebab",
+            "url": "https://underdusken.no/albumanmeldelse-musikkanmeldelse/shwarma-kebab/300512",
+            "emoji": "💿"
+        }
+    ],
+    "musicLinks": [
+        {
+            "icon": "spotify",
+            "url": "https://open.spotify.com/artist/5WHhSHtZd60meLMNDxRbYV?si=C22IAgQiR2aOiNU99AB_sQ"
+        },
+        {
+            "icon": "apple",
+            "url": "https://music.apple.com/us/artist/shwarma/1390163595"
+        },
+        {
+            "icon": "youtube",
+            "url": "https://music.youtube.com/channel/UCHl6N7GvVTmwZZw2gOa3yEg"
+        },
+        {
+            "icon": "amazon",
+            "url": "https://music.amazon.com/artists/B07DB43C7C/shwarma"
+        },
+        {
+            "icon": "bandcamp",
+            "url": "https://music.shwarma.band/"
+        }
+    ],
+    "socialLinks": [
+        {
+            "icon": "instagram",
+            "url": "https://www.instagram.com/shwarmaband/"
+        },
+        {
+            "icon": "facebook",
+            "url": "https://www.facebook.com/shwarmaband"
+        },
+        {
+            "icon": "twitter",
+            "url": "https://twitter.com/shwarmadelica"
+        }
+    ]
 }
