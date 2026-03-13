@@ -4,7 +4,8 @@ function Header() {
       <div className="md:w-4/6 mx-auto">
         <img src="/JacksonProfile.png" className="h-32 rounded-full mx-auto mb-5 border border-gray-600" />
         <h1 className="font-bold text-3xl text-green-300">Jackson</h1>
-        <p className="text-lg">Bring me food when I'm recovering from Brain Surgery:</p>
+        <p className="text-lg">Bring me food when I'm</p>
+        <p className="text-lg">recovering from Brain Surgery:</p>
         <h2 className="mb-3 text-2xl text-green-300 hover:text-green-600"><a href="https://www.mealtrain.com/trains/zme4ry">MealTrain</a></h2>
         {/* <p className="pt-3 text-xs">Or take a look at my <a className="text-green-300 hover:text-green-600 duration-200" href="https://jacksonkaufman.com/">web dev site</a> I made 💻</p> */}
       </div>
